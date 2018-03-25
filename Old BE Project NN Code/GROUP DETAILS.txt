@@ -1,0 +1,12 @@
+Project Name: Text Mining Using Neural Networks
+
+Project Guide: Mrs. Neeta Patil
+
+Group Members:
+
+   Name               Roll Number
+
+Abheek Gulati             27
+Glen D'sa                 19    
+Aditya D'monte            18  
+Anish D'souza             21
